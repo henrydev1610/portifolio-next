@@ -12,6 +12,8 @@
   "dependencies": {
     "@react-three/drei": "^9.105.4",
     "@react-three/fiber": "^8.16.2",
+    "@sentry/cli": "^2.42.4",
+    "@sentry/nextjs": "^9.9.0",
     "@tabler/icons-react": "^3.1.0",
     "@types/three": "^0.163.0",
     "class-variance-authority": "^0.7.0",
